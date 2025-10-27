@@ -4,72 +4,77 @@ title: Upcoming Events
 permalink: /events/
 ---
 
-# Upcoming Events
-
 Stay updated on my speaking engagements, workshops, and other professional activities.
 
-## Scheduled Events
+### On the Training of AI Chatbots
 
-### Event Name - Date
+**Guest Lecture** ILS Z514: Social Aspects of IT
 
-**Type:** Conference Talk / Workshop / Seminar
+**October 29, 2025** 
 
-**Date:** Month DD, YYYY
+**Bloomington, IN** 
 
-**Location:** City, State/Country or Virtual
-
-**Description:** Brief description of the event and my role or contribution.
-
-**Topics Covered:**
-- Topic 1
-- Topic 2
-- Topic 3
-
-**Registration:** [Event Website](#) (if applicable)
+**Description:** I will be presenting a mock training session for an imaginary tech product called 'Megalogoi'. The session will cover the fundamentals of prompt engineering, response review/refinement, and AI industry dynamics.
 
 ---
 
-### Another Event - Date
+### Presentation on Current Research
 
-**Type:** Panel Discussion / Presentation / Workshop
+**Guest Lecture** ILS Z706: Research Methods in Information Science
 
-**Date:** Month DD, YYYY
+**November 6, 2025** 
 
-**Location:** Venue name or Virtual platform
+**Bloomington, IN**
 
-**Description:** Information about this event and what attendees can expect.
-
-**Topics Covered:**
-- Topic 1
-- Topic 2
-
-**Registration:** [Event Website](#)
+**Description:** In this session I will discuss my research in the field of AI and its intersection with historical theory and library science.
 
 ---
+
+### ArchIvory Story Time
+
+**Public Program** Tipton County Public Library Outreach Event
+
+**November 11-12, 2025**
+
+**Tipton, IN**
+
+**Description:** The ArchIvory team will conduct story time sessions at Tipton County Public Library to spread awareness about its research mission and to elicit interest in its work.
+
+---
+
+### ASIS&T Annual Conference 2025
+
+**Poster Session**
+
+**November 17, 2025**
+
+**Washington, DC.**
+
+**Description:** I will be presenting a poster at the 2025 ASIS&T Annual Conference. It explains the methodology and early results for my research on the impact of virtual reality tools on archaeological education.
 
 ## Past Events
 
-### Recent Event - Date
+### ASIS&T Annual Conference 2024
 
-**Type:** Conference / Workshop
+**Poster Session**
 
-**Date:** Month DD, YYYY
+**October 27, 2024** 
 
-**Location:** City, State
+**Calgary, AL, Canada** 
 
-**Summary:** A brief recap of the event and key takeaways.
+**Summary:** At this conference, I presented a poster regarding the findings of a collaborative research project into the impact of Generative AI on historical education. 
 
 ---
 
-### Previous Event - Date
+### Indiana Library Federation Annual Conference 2021
 
-**Type:** Guest Lecture / Seminar
+**Session** 
 
-**Date:** Month DD, YYYY
+**November 17, 2021** 
 
-**Location:** Institution Name
+**Indianapolis, IN** 
 
-**Summary:** Overview of the presentation and audience engagement.
+**Summary:** Kevin McMahon and I presented the results of our Digital Citizenship programming series at Vigo County Public Library.
 
 ---
 
@@ -77,13 +82,4 @@ Stay updated on my speaking engagements, workshops, and other professional activ
 
 I am available for speaking engagements on topics related to my research and professional expertise. If you would like to invite me to speak at your event, please feel free to contact me.
 
-### Topics I Can Speak About:
 
-- Research area 1
-- Research area 2
-- Professional topic 1
-- Professional topic 2
-
-## Contact for Event Inquiries
-
-Please reach out via email to discuss potential speaking opportunities or collaborations.

@@ -4,54 +4,42 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-# Portfolio
-
 Welcome to my portfolio! Here you'll find a collection of projects and accomplishments that showcase my work and expertise.
 
 ## Featured Projects
 
-### Project 1: [Project Name]
+### Exploring Historians' Critical Use of Generative AI for Historical Education
 
-**Description:** A comprehensive overview of this project, including its goals, approach, and outcomes.
+**Description:** In this work, we investigate accademic historians' practices and perceptions of integrating Generative AI into tehir teaching. We identify the major concerns and pperceived benefits of GenAI integration in history education, and some typical uses of GenAi in history classes.
 
-**Technologies Used:** List of tools, frameworks, or methodologies
+**Methods:** Thematic analysis of semi-structured interviews with academic historians
 
 **Key Achievements:**
-- Achievement 1
-- Achievement 2
-- Achievement 3
+- Work Presented at ASIS&T 2024
+- Published in ASIS&T 2024 Conference Proceedings
+- Full paper anticipated in 2026
 
-**Links:** [GitHub](#) | [Live Demo](#) | [Documentation](#)
+**Links:** 
+- [DOI](https://doi.org/10.1002/pra2.1188) 
+---
+
+### Time Out of Mind: Investigating the Technical and Ethical Impacts of Virtual Reality Tools in Archaeological Studies
+
+**Description:** Here, I assess the perceptions of academic archaeologists regarding the integration of VR tools into archaeology education. This exploratory study identifies major concerns and perceived benefits of VR in educational environments.
+
+**Technologies Used:** Thematic analysis of semi-structured interviews with professional archaeologists.
+
+**Key Achievements:**
+- Work to be presented at ASIS&T 2025
+- Publishing coming soon!
 
 ---
 
-### Project 2: [Project Name]
+### Now the Bricks Lay on Grand Street: The Rights of Digital Avatars in Virtual Environments
 
-**Description:** Details about another significant project, highlighting its unique aspects and contributions.
+**Description:** This paper investigates the legal considerations for the protection of an individual's rights virtual learning environments and proposes a framework for their defense.
 
-**Technologies Used:** Relevant technologies and tools
-
-**Key Achievements:**
-- Achievement 1
-- Achievement 2
-- Achievement 3
-
-**Links:** [GitHub](#) | [Live Demo](#) | [Documentation](#)
-
----
-
-### Project 3: [Project Name]
-
-**Description:** Information about a third project, emphasizing its impact and technical complexity.
-
-**Technologies Used:** Technologies employed in this project
-
-**Key Achievements:**
-- Achievement 1
-- Achievement 2
-- Achievement 3
-
-**Links:** [GitHub](#) | [Live Demo](#) | [Documentation](#)
+**Signficance** This paper forms a part of my dissertation series and will be published soon.
 
 ---
 
@@ -59,24 +47,25 @@ Welcome to my portfolio! Here you'll find a collection of projects and accomplis
 
 ### Professional Contributions
 
-- Contribution to open source projects
-- Industry collaborations
-- Technical writings and blog posts
+- Research Contributor at [ArchIvory](https://www.archivory.org)
+- Content Reviewer for Americas Conference on Information Systems
+- Freelance History Reviewer for AI Development
+- Contract researcher for authors and other professionals.
 
-### Awards & Recognition
+### Certifications
 
-- Award or recognition 1
-- Award or recognition 2
-- Award or recognition 3
+- Indiana Library Classification Level 3
+- CITI Social and Behavioral Research Level 1
+- CITI Huamanities Research Level 1
 
 ## Skills Showcase
 
 **Technical Skills:**
-- Programming Languages: Python, JavaScript, etc.
-- Frameworks & Tools: List relevant tools
-- Methodologies: Agile, Research Methods, etc.
+- Programming Languages: HTML, some Javascript, CSS
+- Foreign Languages: (Ancient) Attic Greek, Latin, Middle Egyptian. 
 
 **Soft Skills:**
 - Leadership and project management
 - Communication and presentation
 - Collaboration and teamwork
+- Education

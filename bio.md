@@ -12,23 +12,26 @@ I am a professional dedicated to advancing knowledge and contributing to my fiel
 
 ## Education
 
-- **Degree Program** - Institution Name, Year
-- **Previous Degrees** - Institution Name, Year
+- **Ph.D. Information Science** - Indiana University, 2026
+- **Master of Library Science** - Indiana University, 2020
+- **Master of History**         - Indiana University, 2019
 
 ## Professional Experience
 
-- **Current Position** - Organization, Year - Present
+- **Associate Instructor** - Indiana University, 2023 - Present
   - Key responsibilities and achievements
   
-- **Previous Position** - Organization, Year - Year
+- **Youth Services Library Manager** - Vigo County Public Library, 2021 - 2023
   - Key responsibilities and achievements
 
 ## Skills & Expertise
 
-- Area of expertise 1
-- Area of expertise 2
-- Area of expertise 3
+- Historical Research
+- Library Management/Leadership
+- Public Education & Outreach
+    - Digital Literacy
+    - History
 
 ## Personal Interests
 
-When I'm not working, I enjoy exploring new ideas, engaging with my community, and pursuing various hobbies that keep me inspired and balanced.
+When I'm not working, I enjoy spending time with my family. I'm an avid fitness enthusiast and love the outdoors. 

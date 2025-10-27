@@ -1,0 +1,142 @@
+---
+---
+// Dark theme overrides — teal/aqua highlights
+// Palette: dark grey background, white text, aqua highlight
+$body-background: #0f1720; // deep dark grey
+$body-text-color: #ffffff;
+$accent-color: #00d1ff; // aqua blue for borders/highlights
+$brand-color: $accent-color;
+
+// Import the Minima theme (keeps layout and typography)
+@import "minima";
+
+// Base adjustments
+body {
+  background-color: $body-background;
+  color: $body-text-color;
+}
+
+/* Header */
+.site-header {
+  /* full-bleed background handled by pseudo-element so nav can span viewport */
+  background: transparent;
+  border: 0;
+  position: relative; /* establish stacking context for the bleed */
+  /* aqua top accent */
+  border-top: 4px solid $accent-color;
+}
+
+/* full-bleed bar behind the header (spans viewport width) */
+.site-header::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0; /* cover full header height */
+  background: darken($body-background, 4%);
+  z-index: 0;
+}
+
+/* ensure header inner wrapper sits above the bleed */
+.site-header .wrapper {
+  position: relative;
+  z-index: 1;
+}
+
+.site-title a {
+  color: $body-text-color;
+}
+
+/* Ensure the 'Home' site-title matches nav items */
+.site-header .site-title,
+.site-header .site-title a {
+  color: $body-text-color !important;
+  font-weight: 700;
+  text-shadow: 0 1px 0 rgba(0,0,0,0.6);
+  padding: 6px 8px;
+  line-height: 54px;
+  display: inline-block;
+}
+
+.site-header .site-title a:hover, .site-header .site-title a:focus {
+  color: $accent-color;
+  background: transparent; /* remove lighter shade around Home button on hover */
+  border-radius: 4px;
+}
+
+/* Navigation links */
+.site-nav {
+  /* full-width bar uses the header's full-bleed pseudo-element; keep nav transparent */
+  background: transparent;
+  width: 100%;            /* span the available width */
+  display: block;        /* occupy full line */
+  float: none;           /* don't float while full-width */
+  border-radius: 0;      /* remove rounded corners for full bar look */
+  padding: 10px 18px;    /* comfortable vertical padding */
+  text-align: right;     /* keep links aligned to the right */
+}
+
+/* more specific selector to ensure overrides take effect */
+.site-header .site-nav a {
+  color: $body-text-color !important; /* ensure visibility */
+  font-weight: 700;
+  text-shadow: 0 1px 0 rgba(0,0,0,0.6);
+  padding: 6px 8px;
+  display: inline-block;
+}
+
+.site-header .site-nav a:hover, .site-header .site-nav a:focus {
+  color: $accent-color;
+  background: transparent; /* remove translucent hover background */
+  border-radius: 4px;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  color: $body-text-color;
+}
+
+/* Links */
+a {
+  color: $accent-color;
+  text-decoration: none;
+  border-bottom: 2px solid rgba($accent-color, 0.12);
+}
+
+a:hover {
+  border-bottom-color: transparent;
+  color: lighten($accent-color, 6%);
+}
+
+/* Content blocks: remove boxed dark surface so pages read on dark bg */
+.post, .collection, .excerpt, .project {
+  background: transparent; /* let the page background show through */
+  border-radius: 0;        /* no boxed corners */
+  border: none;           /* remove framed border */
+  box-shadow: none;       /* remove card shadow */
+  padding: 0;             /* keep default flow spacing from theme */
+  margin-bottom: 1.25rem; /* preserve spacing between sections */
+}
+
+/* Accent border for featured blocks */
+.post.featured, .project.featured {
+  border-left: 4px solid $accent-color;
+}
+
+/* Footer */
+.site-footer {
+  background: darken($body-background, 2%);
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba($accent-color, 0.06);
+}
+
+/* Code blocks */
+pre, code {
+  background: rgba(255,255,255,0.04);
+  color: #e6eef6;
+  border-radius: 4px;
+}
+
+/* Small utility tweaks */
+.container { max-width: 980px; }

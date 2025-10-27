@@ -4,38 +4,16 @@ title: Research Interests
 permalink: /research/
 ---
 
-# Research Interests
+My research focuses on the intersection of modern historical theory, social informatics, and law. I am particularly interested in how new IT tools modify public historical understanding.
 
-## Current Research Areas
+### Generative AI and Historical Education
 
-My research focuses on exploring innovative solutions and advancing understanding in my field. Below are my primary areas of interest:
+The process of constructing history is vastly complicated and scholars have long debated the appropriate means by which to construct historical narratives and "truth". Modern historicism is already in flux, with debates between micro and macro historians, subjectivists, constructivists, and positivists as lively as ever. However, global trends toward nationalism and xenophobia are rising alongside the development of powerful new tools such as Generative AI. These new implements have the stunning potential to either empower users with new historical understanding, or to oppress them completely within a complex web of disinformation, propaganda, and inciteful rhetoric. My work seeks to understand the scope of use cases for Generative AI in empirical historicism and historical education practices and to define its mediating impacts on public engagement with historical materials and information. 
 
-### Research Area 1
+### Virtual Reality and Archaeology
 
-Description of this research area and why it matters. This could include specific topics, methodologies, or applications that I'm currently exploring.
+### Constitutional legal Protections in Virtual Education Environments
 
-### Research Area 2
-
-Details about another area of research, including ongoing projects, key questions, and potential impact.
-
-### Research Area 3
-
-Information about a third research domain, highlighting connections to other work and future directions.
-
-## Publications
-
-### Recent Work
-
-- **Publication Title** (Year) - Journal/Conference Name
-  - Brief description of the work and its significance
-
-- **Another Publication** (Year) - Journal/Conference Name
-  - Brief description
-
-### Works in Progress
-
-- Ongoing research project 1
-- Ongoing research project 2
 
 ## Collaborations
 

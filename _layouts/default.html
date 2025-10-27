@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <link rel="stylesheet" href="/assets/main.css">
+  </head>
+  <body>
+    <header class="site-header" role="banner">
+      <div class="wrapper">
+        <a class="site-title" rel="author" href="/">Home</a>
+        <nav class="site-nav">
+          <div class="trigger">
+            <a class="page-link" href="/bio/">Bio</a>
+            <a class="page-link" href="/research/">Research Interests</a>
+            <a class="page-link" href="/portfolio/">Portfolio</a>
+            <a class="page-link" href="/events/">Upcoming Events</a>
+          </div>
+        </nav>
+      </div>
+    </header>
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    <footer class="site-footer h-card">
+      <div class="wrapper">
+        <h2 class="footer-heading">{{ site.title }}</h2>
+        <p>{{ site.description }}</p>
+      </div>
+    </footer>
+  </body>
+</html>
