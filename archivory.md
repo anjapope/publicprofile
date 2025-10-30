@@ -1,6 +1,7 @@
 ---
 title: Archivory
 layout: default
+permalink: /archivory/
 ---
 
 # My Work with ArchIvory
