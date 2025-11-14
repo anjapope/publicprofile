@@ -4,17 +4,27 @@ title: Upcoming Events
 permalink: /events/
 ---
 
-Stay updated on my speaking engagements, workshops, and other professional activities.
+### ASIS&T Annual Conference 2025
 
-### On the Training of AI Chatbots
+**Poster Session**
 
-**Guest Lecture** ILS Z514: Social Aspects of IT
+**November 17, 2025**
 
-**October 29, 2025** 
+**Washington, DC.**
 
-**Bloomington, IN** 
+**Description:** I will be presenting a poster at the 2025 ASIS&T Annual Conference. It explains the methodology and early results for my research on the impact of virtual reality tools on archaeological education.
 
-**Description:** I will be presenting a mock training session for an imaginary tech product called 'Megalogoi'. The session will cover the fundamentals of prompt engineering, response review/refinement, and AI industry dynamics.
+## Past Events
+
+### ArchIvory Story Time
+
+**Public Program** Tipton County Public Library Outreach Event
+
+**November 11-12, 2025**
+
+**Tipton, IN**
+
+**Description:** The ArchIvory team will conduct story time sessions at Tipton County Public Library to spread awareness about its research mission and to elicit interest in its work.
 
 ---
 
@@ -30,29 +40,17 @@ Stay updated on my speaking engagements, workshops, and other professional activ
 
 ---
 
-### ArchIvory Story Time
+### On the Training of AI Chatbots
 
-**Public Program** Tipton County Public Library Outreach Event
+**Guest Lecture** ILS Z514: Social Aspects of IT
 
-**November 11-12, 2025**
+**October 29, 2025** 
 
-**Tipton, IN**
+**Bloomington, IN** 
 
-**Description:** The ArchIvory team will conduct story time sessions at Tipton County Public Library to spread awareness about its research mission and to elicit interest in its work.
+**Description:** I will be presenting a mock training session for an imaginary tech product called 'Megalogoi'. The session will cover the fundamentals of prompt engineering, response review/refinement, and AI industry dynamics.
 
 ---
-
-### ASIS&T Annual Conference 2025
-
-**Poster Session**
-
-**November 17, 2025**
-
-**Washington, DC.**
-
-**Description:** I will be presenting a poster at the 2025 ASIS&T Annual Conference. It explains the methodology and early results for my research on the impact of virtual reality tools on archaeological education.
-
-## Past Events
 
 ### ASIS&T Annual Conference 2024
 

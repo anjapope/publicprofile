@@ -3,13 +3,6 @@ layout: home
 title: Home
 ---
 
-# Welcome to My Personal Website
+# Welcome 
 
-Welcome! This is my personal website where you can learn more about me, my research, and my work.
-
-Use the navigation menu above to explore:
-
-- **Bio** - Learn about my background and experience
-- **Research Interests** - Discover my research areas and academic interests
-- **Portfolio** - View my projects and accomplishments
-- **Upcoming Events** - Stay updated on my speaking engagements and activities
+My name is Andrew Pope. I am a PhD student in Information Science at Indiana University. My research explores the nexus of social informatics and modern empirical historicism, with a focus on the introduction of generative AI and virtual reality. I apply an array of social science methodologies to augment my historical research, and to assess how the modern public engages with and interprets historical materials.
