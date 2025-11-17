@@ -19,10 +19,16 @@ I am a professional dedicated to advancing knowledge and contributing to my fiel
 ## Professional Experience
 
 - **Associate Instructor** - Indiana University, 2023 - Present
-  - Key responsibilities and achievements
+   - Z514: Social Aspects of IT
+   - Z604: Advanced Archives
+   - Z622: Library Services for People with Disabilities
+   - Z550: Information Institutions Management
   
 - **Youth Services Library Manager** - Vigo County Public Library, 2021 - 2023
-  - Key responsibilities and achievements
+   - Oversaw YS Finances and Expenditures
+   - Coordinated Collection Development
+   - Program Planning
+   - Navigated public partnerships
 
 ## Skills & Expertise
 
