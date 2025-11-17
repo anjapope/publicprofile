@@ -35,8 +35,8 @@ I am a professional dedicated to advancing knowledge and contributing to my fiel
 - Historical Research
 - Library Management/Leadership
 - Public Education & Outreach
-    - Digital Literacy
-    - History
+- Digital Literacy
+- Ancient Languages
 
 ## Personal Interests
 
