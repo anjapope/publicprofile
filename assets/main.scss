@@ -42,6 +42,10 @@ body {
 .site-header .wrapper {
   position: relative;
   z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .site-title a {
@@ -67,14 +71,13 @@ body {
 
 /* Navigation links */
 .site-nav {
-  /* full-width bar uses the header's full-bleed pseudo-element; keep nav transparent */
   background: transparent;
-  width: 100%;            /* span the available width */
-  display: block;        /* occupy full line */
-  float: none;           /* don't float while full-width */
-  border-radius: 0;      /* remove rounded corners for full bar look */
-  padding: 10px 18px;    /* comfortable vertical padding */
-  text-align: center;    /* center nav links */
+  flex: 1;               /* take remaining header row space */
+  float: none;
+  border-radius: 0;
+  padding: 10px 18px;
+  text-align: center;    /* center links within that space */
+  position: static;      /* prevent Minima's absolute positioning on desktop */
 }
 
 /* more specific selector to ensure overrides take effect */
