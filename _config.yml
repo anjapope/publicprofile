@@ -2,7 +2,7 @@
 title: Personal website
 email: anjapope@iu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  My personal website showcasing my bio, research interests, portfolio, and upcoming events.
+  My personal website showcasing my bio, research interests, portfolio, and engagements.
 baseurl: "/publicprofile/" # the subpath of your site, e.g. /repo-name
 url: "https://anjapope.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -14,10 +14,12 @@ plugins:
 # Navigation
 header_pages:
   - bio.md
+  - teaching.md
   - research.md
   - portfolio.md
-  - events.md
+  - Engagements.md
   - archivory.md
+  - contact.md
 
 # Exclude from processing
 exclude:

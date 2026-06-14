@@ -8,7 +8,7 @@ This is my personal website built with Jekyll and the Minima theme.
 - **Bio**: Background, education, professional experience, skills, and personal interests
 - **Research Interests**: Current research areas, publications, collaborations, and research philosophy
 - **Portfolio**: Featured projects, professional contributions, awards, and skills showcase
-- **Upcoming Events**: Scheduled events, past events, and speaking availability
+- **Engagements**: Scheduled events, past events, and speaking availability
 
 ## Local Development
 
@@ -43,7 +43,7 @@ The generated site will be in the `_site` directory.
 ## Customization
 
 - **Site Title & Description**: Edit `_config.yml`
-- **Content**: Edit the markdown files (`index.md`, `bio.md`, `research.md`, `portfolio.md`, `events.md`)
+- **Content**: Edit the markdown files (`index.md`, `bio.md`, `research.md`, `portfolio.md`, `Engagements.md`)
 - **Contact Email**: Update the email in `_config.yml`
 
 ## Theme

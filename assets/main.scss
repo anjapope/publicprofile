@@ -74,7 +74,7 @@ body {
   float: none;           /* don't float while full-width */
   border-radius: 0;      /* remove rounded corners for full bar look */
   padding: 10px 18px;    /* comfortable vertical padding */
-  text-align: right;     /* keep links aligned to the right */
+  text-align: center;    /* center nav links */
 }
 
 /* more specific selector to ensure overrides take effect */
@@ -139,4 +139,18 @@ pre, code {
 }
 
 /* Small utility tweaks */
-.container { max-width: 980px; }
+.container { max-width: 1200px; }
+
+/* Use more horizontal space across the site */
+.wrapper {
+  max-width: 1200px;
+  padding-left: 32px;
+  padding-right: 32px;
+}
+
+@media screen and (max-width: 800px) {
+  .wrapper {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}

@@ -21,6 +21,7 @@ Welcome to my portfolio! Here you'll find a collection of projects and accomplis
 
 **Links:** 
 - [DOI](https://doi.org/10.1002/pra2.1188) 
+
 ---
 
 ### Time Out of Mind: Investigating the Technical and Ethical Impacts of Virtual Reality Tools in Archaeological Studies
@@ -61,7 +62,7 @@ Welcome to my portfolio! Here you'll find a collection of projects and accomplis
 ## Skills Showcase
 
 **Technical Skills:**
-- Programming Languages: HTML, some Javascript, CSS
+- Programming Languages: HTML, some Javascript, CSS, Python
 - Foreign Languages: (Ancient) Attic Greek, Latin, Middle Egyptian. 
 
 **Soft Skills:**
