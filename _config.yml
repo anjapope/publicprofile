@@ -2,8 +2,8 @@
 title: Andrew Pope
 email: anjapope@iu.edu
 description: Andrew Pope’s personal website on historical inquiry, information science, and artificial intelligence.
-baseurl: "/publicprofile"
-url: "https://anjapope.github.io"
+baseurl: ""
+url: "https://anjapoperesearch.com"
 
 # Build settings
 theme: minima
