@@ -1,11 +1,7 @@
-<div class="trigger">
-  <a class="page-link" href="{{ "/" | relative_url }}">Home</a>
-  <a class="page-link" href="{{ "/cv/" | relative_url }}">CV</a>
-  <a class="page-link" href="{{ "/teaching/" | relative_url }}">Teaching</a>
-  <a class="page-link" href="{{ "/research/" | relative_url }}">Research Interests</a>
-  <a class="page-link" href="{{ "/portfolio/" | relative_url }}">Portfolio</a>
-  <a class="page-link" href="{{ "/engagements/" | relative_url }}">Engagements</a>
-  <a class="page-link" href="{{ "/archivory/" | relative_url }}">ArchIvory</a>
-  <a class="page-link" href="{{ "/contact/" | relative_url }}">Contact</a>
-
-</div>
+{% assign labels = "Home|CV|Teaching|Research Interests|Portfolio|Engagements|ArchIvory|Mayday|Contact" | split: "|" %}
+{% assign paths = "/|/cv/|/teaching/|/research/|/portfolio/|/engagements/|/archivory/|/mayday/|/contact/" | split: "|" %}
+<ul>
+  {% for path in paths %}
+    <li><a href="{{ path | relative_url }}"{% if page.url == path %} aria-current="page"{% endif %}>{{ labels[forloop.index0] }}</a></li>
+  {% endfor %}
+</ul>

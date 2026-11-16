@@ -3,11 +3,11 @@ layout: page
 title: Engagements
 permalink: /engagements/
 ---
-This page highlights selected conference presentations, invited lectures, workshops, and public outreach activities. My work spans information science, digital humanities, history, and emerging technologies, with a particular focus on the ways sociotechnical stystems shape knoweldge, culture, and historical interpretation. In addition to presenting research at academic conferences, I regularly engage with public audiences through lectures, community programs, and interdisciplinary initiatives such as ArchIvory, which explores the historical, cultural, and scientific dimensions of the global ivory trade.
+My talks, workshops, and public programs explore how technology shapes the way people create knowledge, teach, and interpret the past. I speak with academic and public audiences about information science, digital humanities, and emerging technologies. Through [ArchIvory]({{ '/archivory/' | relative_url }}), I also help bring interdisciplinary research on the global ivory trade to community audiences.
 
-### Conference Presentations  
+## Conference presentations
 
-**DePaul Pop Culture Conference**
+### DePaul Pop Culture Conference
 
 **Paper Presentation**
 
@@ -19,7 +19,7 @@ This page highlights selected conference presentations, invited lectures, worksh
 
 ---
 
-**Indiana Academic Historians Conference 2026**
+### Indiana Academic Historians Conference 2026
 
 **Panel Session** 
 
@@ -31,7 +31,7 @@ This page highlights selected conference presentations, invited lectures, worksh
 
 ---
 
-**ASIS&T Annual Conference 2025**
+### ASIS&T Annual Conference 2025
 
 **Poster Session**
 
@@ -43,19 +43,19 @@ This page highlights selected conference presentations, invited lectures, worksh
 
 ---
 
-**ASIS&T Annual Conference 2024**
+### ASIS&T Annual Conference 2024
 
 **Poster Session**
 
 **October 27, 2024** 
 
-**Calgary, AL, Canada** 
+**Calgary, AB, Canada**
 
 **Title: Exploring Historians' Critical Use of Generative AI Technologies for History Education**
 
 ---
 
-**Indiana Library Federation Annual Conference 2021**
+### Indiana Library Federation Annual Conference 2021
 
 **Presentation** 
 
@@ -67,9 +67,9 @@ This page highlights selected conference presentations, invited lectures, worksh
 
 ---
 
-### ArchIvory 
+## ArchIvory outreach
 
-**Tipton County Public Library Story Time**
+### Tipton County Public Library Story Time
 
 **November 11-12, 2025**
 
@@ -77,9 +77,9 @@ This page highlights selected conference presentations, invited lectures, worksh
 
 ---
 
-### Invited Lectures
+## Invited lectures
 
-**ILS Z706: Research Methods in Information Science**
+### ILS Z706: Research Methods in Information Science
 
 **November 6, 2025** 
 
@@ -87,7 +87,7 @@ This page highlights selected conference presentations, invited lectures, worksh
 
 ---
 
-**ILS Z514: Social Aspects of IT**
+### ILS Z514: Social Aspects of IT
 
 **October 29, 2025** 
 
@@ -97,6 +97,6 @@ This page highlights selected conference presentations, invited lectures, worksh
 
 ## Speaking Availability
 
-I am available for speaking engagements on topics related to my research and professional expertise. If you would like to invite me to speak at your event, please feel free to contact me.
+I’m available for speaking engagements on my research and professional work. [Contact me about an event]({{ '/contact/' | relative_url }}).
 
 

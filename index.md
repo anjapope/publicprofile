@@ -1,20 +1,47 @@
 ---
-layout: home
+layout: default
 title: Home
+permalink: /
 ---
 
-# Welcome 
+<section class="hero" aria-labelledby="home-heading">
+  <div class="hero-copy">
+    <h1 id="home-heading">Information is<br> never static<span>.</span></h1>
+    <p>Historical inquiry, artificial intelligence, and the systems through which knowledge is made.</p>
+    <a href="{{ '/research/' | relative_url }}">Explore my research <span aria-hidden="true">↗</span></a>
+  </div>
+  <div class="field" aria-hidden="true"></div>
+</section>
 
-My name is Andrew Pope. I am a PhD student in Information Science at Indiana University. My research explores the nexus of social informatics and modern empirical historicism, with a focus on the introduction of generative AI and virtual reality. I apply an array of social science methodologies to augment my historical research, and to assess how the modern public engages with and interprets historical materials.
+<section class="intro" aria-labelledby="about-heading" markdown="1">
+
+## About me
+{: #about-heading }
+
+I’m Andrew Pope, an information science PhD student and research analyst. My work combines historical inquiry, social science, and experimentation with emerging technology. At Indiana University, I study how generative AI and virtual reality shape the way people teach, interpret, and engage with the past. I use social science methods to extend my historical research and understand how the public makes sense of historical materials.
+
+</section>
+
+<section aria-labelledby="projects-heading">
+  <h2 id="projects-heading">Projects</h2>
+  <div class="project-grid">
+    <a href="{{ '/archivory/' | relative_url }}"><strong>ArchIvory</strong><span>Interdisciplinary research into the global ivory trade.</span></a>
+    <a href="{{ '/mayday/' | relative_url }}"><strong>Mayday</strong><span>Independent work on artificial intelligence and distributed intelligence.</span></a>
+  </div>
+</section>
+
+<section class="explore" aria-labelledby="explore-heading" markdown="1">
 
 ## Explore
+{: #explore-heading }
 
 - [CV]({{ "/cv/" | relative_url }})
 - [Teaching]({{ "/teaching/" | relative_url }})
 - [Research Interests]({{ "/research/" | relative_url }})
 - [Portfolio]({{ "/portfolio/" | relative_url }})
 - [Engagements]({{ "/engagements/" | relative_url }})
-- [ArchIvory]({{ "/archivory/" | relative_url }})
 - [Contact]({{ "/contact/" | relative_url }})
 
-If you would like to get in touch, my email is anjapope@iu.edu
+You can reach me at [anjapope@iu.edu](mailto:anjapope@iu.edu).
+
+</section>

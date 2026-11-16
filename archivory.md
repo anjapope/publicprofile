@@ -1,6 +1,6 @@
 ---
-title: Archivory
-layout: default
+title: ArchIvory
+layout: page
 permalink: /archivory/
 ---
 

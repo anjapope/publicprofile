@@ -8,13 +8,13 @@ I'd love to hear from you! Whether you have questions about my research, teachin
 
 ## Email
 
-**Email:** anjapope@iu.edu
+[anjapope@iu.edu](mailto:anjapope@iu.edu)
 
 ## Professional Profiles
 
-- **https://www.linkedin.com/in/apope87**
+- [LinkedIn](https://www.linkedin.com/in/apope87)
 
-- **https://www.researchgate.net/profile/Andrew-Pope-4**
+- [ResearchGate](https://www.researchgate.net/profile/Andrew-Pope-4)
 
 
 ---
