@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-I am a professional dedicated to advancing knowledge and contributing to my field. My journey has been shaped by curiosity, hard work, and a passion for continuous learning.
+I’m a researcher, analyst, and educator working across information science, history, and emerging technology.
 
 [Download Full CV (PDF)]({{ "/assets/Resume.cv1.2026.pdf" | relative_url }})
 

@@ -1,28 +1,18 @@
 # Site settings
-title: Personal website
+title: Andrew Pope
 email: anjapope@iu.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  My personal website showcasing my bio, research interests, portfolio, and engagements.
-baseurl: "/publicprofile/" # the subpath of your site, e.g. /repo-name
-url: "https://anjapope.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+description: Andrew Pope’s personal website on historical inquiry, information science, and artificial intelligence.
+baseurl: "/publicprofile"
+url: "https://anjapope.github.io"
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
-# Navigation
-header_pages:
-  - bio.md
-  - teaching.md
-  - research.md
-  - portfolio.md
-  - Engagements.md
-  - archivory.md
-  - contact.md
-
 # Exclude from processing
 exclude:
+  - _config.pages.yml
   - Gemfile
   - Gemfile.lock
   - node_modules
