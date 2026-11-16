@@ -6,8 +6,8 @@ permalink: /
 
 <section class="hero" aria-labelledby="home-heading">
   <div class="hero-copy">
-    <h1 id="home-heading">Information is<br> never static<span>.</span></h1>
-    <p>Historical inquiry, artificial intelligence, and the systems through which knowledge is made.</p>
+    <h1 id="home-heading" lang="grc">πάντα ῥεῖ</h1>
+    <p>The past leaves traces. The ways we know it keep changing.</p>
     <a href="{{ '/research/' | relative_url }}">Explore my research <span aria-hidden="true">↗</span></a>
   </div>
   <div class="field" aria-hidden="true"></div>
